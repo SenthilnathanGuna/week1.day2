@@ -9,16 +9,16 @@ public class TestCalculator {
 		return c; 
 		
 	}
-	public int subFunction(int a, int b)
+	public double subFunction(double a, double b)
 	{
-		int c=0;
+		double c=0;
 		c=a-b;
 		return c; 
 		
 	}
-	public int multiplyFunction(int a, int b)
+	public double multiplyFunction(double a, double b)
 	{
-		int c=0;
+		double c=0;
 		c=a*b;
 		return c; 
 		
